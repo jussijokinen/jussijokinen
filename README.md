@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to our light entrepreneuer profile. We are constantly looking for new IT-projects to help people out and to improve ourself and our skill set. 
+
+
 <!--
 **jussijokinen/jussijokinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
